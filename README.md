@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou procurando um emprego (preferencialmente na área de TI) 
 - 🎓 Estou cursando Engenharia de Software na Unicesumar 
-- 💬 Português fluente e inglês básico 
+- 💬 Português fluente e inglês intermediário 
 - 🌱 Gosto de programar, então meus estudos são voltados a isso 
 - 📫 Contatos: matheushquadros2007@gmail.com 
 - 😄 Pronomes: Ele/Dele 
