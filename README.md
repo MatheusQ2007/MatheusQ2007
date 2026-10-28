@@ -1,13 +1,11 @@
-<h1 align="center">Olá, aqui é o Matheus Quadros👋</h1>
+# Matheus Henrique de Quadros
+Estudante de Análise e Desenvolvimento de Sistemas na UTFPR.
 
-<div class="perfilImg" align="center">
- <img height="150em" alt="Minha imagem de perfil" src="https://avatars.githubusercontent.com/u/262895741?v=4">
-</div>
+## 🚀 Foco Atual e Tecnologias
+- **Linguagens:** Java, C, SQL
+- **Banco de Dados & Ferramentas:** GitHub, MySQL
+- **Conceitos em Estudo:** Lógica de Programação, Programação Orientada a Objetos (POO), Modelagem de Dados e Redes de Computadores
 
-- 🔭 Atualmente estou procurando um emprego (preferencialmente na área de TI) 
-- 🎓 Estou cursando Análise em Desenvolvimento de Sistemas na UTFPR 
-- 💬 Português fluente e inglês intermediário 
-- 🌱 Gosto de programar, então meus estudos são voltados a isso 
-- 📫 Contatos: matheushquadros2007@gmail.com 
-- 😄 Pronomes: Ele/Dele 
-- ⚡ Fato curioso: Meu sonho é desenvolver meus próprios jogos 
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/matheus-quadros-3a894b295
+- Email: matheushquadros2007@gmail.com
